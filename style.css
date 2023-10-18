@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.cartao-qr {
+    background-color: hsl(0, 0%, 100%);
+    width: 310px;
+    height: 470px;
+    border-radius: 5%;
+    position: relative;
+    margin: 0 auto;
+    top: 50px;
+}
+
+.cartao-qr img{
+    display: inline-block;
+    width: 270px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10%;
+}
+
+.cartao-qr .paragrafo-1 {
+    font-size: 22px;
+    max-width: 250px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'outfit';
+    font-weight: 700;
+}
+
+.cartao-qr .paragrafo-2 {
+    font-size: 15px;
+    max-width: 250px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'outfit';
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
+
+
